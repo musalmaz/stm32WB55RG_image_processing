@@ -5,5 +5,5 @@ I basically benefited from the below Arduino code for camera register settings. 
 https://circuitdigest.com/microcontroller-projects/how-to-use-ov7670-camera-module-with-arduino
 However, I cannot get the right images from stm, I used the python code for image saving.
 This is one of the images I got, I expected YUV422 format, and checked the related registers however the result is not as expected.
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/musalmaz/stm32WB55RG_image_processing/blob/main/output_image_gray.jpg)
 
