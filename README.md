@@ -7,5 +7,4 @@ However, I cannot get the right images from stm, I used the python code for imag
 This is one of the images I got, I expected YUV422 format, and checked the related registers however the result is not as expected.
 ![output_image_gray](https://github.com/musalmaz/stm32WB55RG_image_processing/assets/79845305/ab1823af-9d2c-4eb8-8860-0ba7aac8a7bd)
 
-![alt text]([http://url/to/img.png](https://github.com/musalmaz/stm32WB55RG_image_processing/blob/main/output_image_gray.jpg)
 
